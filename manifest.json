@@ -3,7 +3,7 @@
     "version": "1.18.2",
     "modLoaders": [
       {
-        "id": "fabric-0.13.3",
+        "id": "fabric-0.14.6",
         "primary": true
       }
     ]
@@ -15,17 +15,12 @@
   "files": [
     {
       "projectID": 433760,
-      "fileID": 3699198,
-      "required": true
-    },
-    {
-      "projectID": 319057,
-      "fileID": 3641132,
+      "fileID": 3739671,
       "required": true
     },
     {
       "projectID": 448233,
-      "fileID": 3642143,
+      "fileID": 3743933,
       "required": true
     },
     {
@@ -40,17 +35,12 @@
     },
     {
       "projectID": 463457,
-      "fileID": 3554833,
-      "required": true
-    },
-    {
-      "projectID": 354047,
-      "fileID": 3683180,
+      "fileID": 3815807,
       "required": true
     },
     {
       "projectID": 306612,
-      "fileID": 3689020,
+      "fileID": 3802464,
       "required": true
     },
     {
@@ -65,7 +55,7 @@
     },
     {
       "projectID": 308702,
-      "fileID": 3668801,
+      "fileID": 3789482,
       "required": true
     },
     {
@@ -80,7 +70,7 @@
     },
     {
       "projectID": 401648,
-      "fileID": 3707871,
+      "fileID": 3798366,
       "required": true
     },
     {
@@ -89,9 +79,9 @@
       "required": true
     },
     {
-      "projectID": 296468,
-      "fileID": 3692641,
-      "required": false
+      "projectID": 348521,
+      "fileID": 3782775,
+      "required": true
     },
     {
       "projectID": 334259,
@@ -99,8 +89,8 @@
       "required": true
     },
     {
-      "projectID": 452046,
-      "fileID": 3717795,
+      "projectID": 353890,
+      "fileID": 3758296,
       "required": true
     },
     {
